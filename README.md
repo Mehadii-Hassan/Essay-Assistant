@@ -1,7 +1,7 @@
 <h1 align="center">📝 Essay Assistant</h1> 
 
 <p align="center">
-  <strong>AI-powered Web Tool for Structured Essay Writing</strong><br>
+  <strong>AI-powered Web Tool for Structured Essay Writing </strong><br>
   Built with <code>FastAPI</code>, <code>OpenAI</code>, and <code>HTML/CSS</code>
 </p>
 
@@ -125,3 +125,4 @@ Created by <strong>Mehadi Hassan</strong> using FastAPI + OpenAI + HTML/CSS.
 <hr>
 
 <p align="center">⭐ Star this repo if you find it useful!</p>
+
